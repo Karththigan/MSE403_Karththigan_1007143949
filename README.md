@@ -7,4 +7,4 @@ Weekly assignments target applying statistical learning techniques on materials 
 ## Description of Assignments:
 - Assignments 1-3: Introduction to Python
 - Assignment 4: Clustering XRD data to produce a phase diagram of VO2-Nb2O3 system
-- Assignment 5: Building linear regression models to predict the glass-forming ability of a Co-Zr-Cr-Ti quaternary system, using only ternary system data
+- Assignment 5: Linear regression models for prediction of the glass-forming ability of Co-Zr-Cr-Ti system, using only ternary system data
