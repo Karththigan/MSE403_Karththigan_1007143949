@@ -9,3 +9,4 @@ Weekly assignments target applying statistical learning techniques on materials 
 - Assignment 4: Clustering XRD data to produce a phase diagram of VO2-Nb2O3 system
 - Assignment 5: Linear regression models for prediction of the glass-forming ability of Co-Zr-Cr-Ti system, using only ternary system data
 - Assignment 6: K-Nearest Neighbor Classification for prediction of the glass-forming ability of Co-Zr-Cr-Ti system, using only ternary system data
+- Assignment 7: Regularization methods; Applying Least Absolute Shrinkage and Selection Operator (LASSO) for feature selection and prediction of the glass-forming ability of Co-Zr-Cr-Ti system, using only ternary system data
