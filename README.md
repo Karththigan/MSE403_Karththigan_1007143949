@@ -1,4 +1,4 @@
-# MSE403 Data Sciences and Analytics for Materials Engineers
+# MSE403 Data Science and Analytics for Materials Engineers
 
 This repository contains my assignment submissions for _MSE403: Data Sciences and Analytics for Materials Engineers_ at the University of Toronto
 
